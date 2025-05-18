@@ -1,4 +1,4 @@
-﻿namespace PersonDemo.Core.Utilities;
+﻿namespace JanKoloska.PersonDemo.Core.Utilities;
 
 public static class Guard
 {

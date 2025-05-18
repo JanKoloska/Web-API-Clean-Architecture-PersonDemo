@@ -1,4 +1,4 @@
-﻿namespace PersonDemo.Core.Entities;
+﻿namespace JanKoloska.PersonDemo.Core.Entities;
 
 public class Person
 {
